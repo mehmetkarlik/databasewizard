@@ -1,0 +1,20 @@
+﻿DatabaseWizard
+
+
+winexe
+C#
+.cs
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\
+DatabaseWizard
+none
+false
+DEBUG;TRACE
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\App.xaml
+15-1718925746
+
+21526117116
+3529212882
+MainWindow.xaml;User Controls\ChooseFields.xaml;User Controls\Database\FirebirdScreen.xaml;User Controls\Database\MySQLScreen.xaml;User Controls\Database\OracleScreen.xaml;User Controls\Database\PostgreSqlScreen.xaml;User Controls\Database\SqlServerScreen.xaml;User Controls\Database\WSDLScreen.xaml;User Controls\DataSettings.xaml;User Controls\FileFormat.xaml;User Controls\FirstScreen.xaml;User Controls\NumericUpDown.xaml;User Controls\ResultScreen.xaml;User Controls\SelectFile.xaml;Warnings\OfficeAddOnWarning.xaml;
+
+False
+

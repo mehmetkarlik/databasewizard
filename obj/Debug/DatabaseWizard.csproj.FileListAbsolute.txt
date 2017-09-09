@@ -1,0 +1,84 @@
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\DatabaseWizard.exe
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\DatabaseWizard.pdb
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\MainWindow.g.cs
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\User Controls\FileFormat.g.cs
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\User Controls\FirstScreen.g.cs
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\App.g.cs
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\DatabaseWizard_MarkupCompile.cache
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\DatabaseWizard_MarkupCompile.lref
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\App.baml
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\MainWindow.baml
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\User Controls\FileFormat.baml
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\User Controls\FirstScreen.baml
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\DatabaseWizard.g.resources
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\DatabaseWizard.Properties.Resources.resources
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\DatabaseWizard.csproj.GenerateResource.Cache
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\DatabaseWizard.exe
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\DatabaseWizard.pdb
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\User Controls\ChooseFields.g.cs
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\User Controls\ChooseFields.baml
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\Xceed.Wpf.AvalonDock.pdb
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.pdb
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.pdb
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\Xceed.Wpf.DataGrid.pdb
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\User Controls\DataSettings.g.cs
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\User Controls\DataSettings.baml
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\DatabaseWizard.csprojResolveAssemblyReference.cache
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\User Controls\NumericUpDown.g.cs
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\User Controls\NumericUpDown.baml
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\User Controls\ResultScreen.g.cs
+C:\Users\Mehmet\documents\visual studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\User Controls\ResultScreen.baml
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\User Controls\SelectFile.g.cs
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\User Controls\SelectFile.baml
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\Warnings\OfficeAddOnWarning.g.cs
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\Warnings\OfficeAddOnWarning.baml
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\User Controls\Database\MySQLScreen.g.cs
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\User Controls\Database\MySQLScreen.baml
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\MySql.Data.dll
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\MySql.Web.dll
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\MySql.Data.xml
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\MySql.Web.xml
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\User Controls\Database\SqlServerScreen.g.cs
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\User Controls\Database\SqlServerScreen.baml
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\User Controls\Database\OracleScreen.g.cs
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\User Controls\Database\OracleScreen.baml
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\User Controls\Database\PostgreSqlScreen.g.cs
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\DatabaseWizard.exe.config
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\Devart.Data.dll
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\Devart.Data.PostgreSql.dll
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\User Controls\Database\PostgreSqlScreen.baml
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\DatabaseWizard.csproj.DatabaseWizard.exe.config
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\User Controls\Database\FirebirdScreen.g.cs
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\System.IO.dll
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\System.Runtime.dll
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\System.IO.xml
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\System.Runtime.xml
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\bin\Debug\System.Threading.Tasks.xml
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\User Controls\Database\FirebirdScreen.baml
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\User Controls\Database\WSDLScreen.g.cs
+C:\Users\Mehmet\Documents\Visual Studio 2015\Projects\DatabaseWizard\DatabaseWizard\obj\Debug\User Controls\Database\WSDLScreen.baml

@@ -1,0 +1,61 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DatabaseWizard.User_Controls"
+             xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit" x:Class="DatabaseWizard.User_Controls.ChooseFields"
+             mc:Ignorable="d" 
+            d:DesignHeight="481.935" d:DesignWidth="642" IsVisibleChanged="UserControl_IsVisibleChanged">
+    <Grid Height="481.935" VerticalAlignment="Bottom" Margin="0,0,5.603,0">
+
+        <Label x:Name="label" Content="Tables and Fields" HorizontalAlignment="Left" Margin="10,20.795,0,0" VerticalAlignment="Top" Foreground="#FF198EC2" FontWeight="ExtraBold" FontSize="21" Height="41.589" FontFamily="Yu Gothic UI Semibold"/>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="414" Margin="-16,71,-59.603,-3.065"  Stroke="DarkGray" VerticalAlignment="Top" Width="712"/>
+        <Button  x:Name="btnCancel" Content="Cancel" HorizontalAlignment="Left" Margin="533.734,433.361,0,0" VerticalAlignment="Top" Width="75" Click="btnCancel_Click"/>
+        <Button  IsEnabled="False" x:Name="btnFinish" Content="Finish" HorizontalAlignment="Left" Margin="453.734,433.361,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button  IsEnabled="False" x:Name="btnNext" Content=" Next &gt;" HorizontalAlignment="Left" Margin="373.734,433.361,0,0" VerticalAlignment="Top" Width="75" Click="btnNext_Click"/>
+        <Button  x:Name="btnBack" Content="&lt; Back " HorizontalAlignment="Left" Margin="293.734,433.361,0,0" VerticalAlignment="Top" Width="75" Click="btnBack_Click"/>
+        <Label x:Name="lblTextFile" Content="Table:" HorizontalAlignment="Left" Margin="10,103,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="cmbTables" IsEnabled="False" HorizontalAlignment="Left" Margin="62,106,0,0" VerticalAlignment="Top" Width="547" SelectionChanged="cmbTables_SelectionChanged"/>
+        <Label x:Name="label1" Content="Choose the table and column fields that you will use." HorizontalAlignment="Left" Margin="12,77,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2" Content="Available fields:" HorizontalAlignment="Left" Margin="10,135,0,0" VerticalAlignment="Top"/>
+        <ListBox x:Name="lstAvailableFields" HorizontalAlignment="Left" Height="252" Margin="12,161,0,0" VerticalAlignment="Top" Width="240">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal" Margin="2">
+                        <StackPanel>
+                            <Image Margin="3" Width="15" Height="15" Source="{Binding Path}"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="2,1,0,0">
+                            <TextBlock Margin="1" Text="{Binding Name}" FontWeight="Bold" />
+                            <TextBlock Margin="1" Text="{Binding Description}"/>
+                        </StackPanel>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <Button x:Name="btnAdd" IsEnabled="True" Content="Add >" HorizontalAlignment="Left" Margin="262,247,0,0" VerticalAlignment="Top" Width="99" Click="btnAdd_Click"/>
+        <Button x:Name="btnRemove" IsEnabled="False" Content="&lt; Remove" HorizontalAlignment="Left" Margin="262,275,0,0" VerticalAlignment="Top" Width="99" Click="btnRemove_Click"/>
+        <Button x:Name="btnAddAll" IsEnabled="True" Content="Add All >>" HorizontalAlignment="Left" Margin="262,303,0,0" VerticalAlignment="Top" Width="99" Click="btnAddAll_Click"/>
+        <Button x:Name="btnRemoveAll" IsEnabled="False" Content="&lt; &lt; Remove All" HorizontalAlignment="Left" Margin="262,331,0,0" VerticalAlignment="Top" Width="99" Click="btnRemoveAll_Click"/>
+        <ListBox x:Name="lstSelectedFields" HorizontalAlignment="Left" Height="252" Margin="372,161,0,0" VerticalAlignment="Top" Width="240">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal" Margin="2">
+                        <StackPanel>
+                            <Image Margin="3" Width="15" Height="15" Source="{Binding Path}"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="2,1,0,0">
+                            <TextBlock Margin="1" Text="{Binding Name}" FontWeight="Bold" />
+                            <TextBlock Margin="1" Text="{Binding Description}"/>
+                        </StackPanel>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <Label x:Name="label2_Copy" Content="Selected fields:" HorizontalAlignment="Left" Margin="368,135,0,0" VerticalAlignment="Top"/>
+
+
+    </Grid>
+
+</UserControl>

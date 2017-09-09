@@ -1,0 +1,25 @@
+﻿<Window x:Class="DatabaseWizard.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DatabaseWizard"
+        xmlns:uccontrol="clr-namespace:DatabaseWizard.User_Controls"
+        xmlns:ucDatabase="clr-namespace:DatabaseWizard.User_Controls.Database"
+        mc:Ignorable="d"
+        Title="Database Setup Wizard" Height="510.935" Width="642.397" Icon="Database.ico" ResizeMode="NoResize" WindowStyle="ThreeDBorderWindow">
+    <Grid Height="481.935" VerticalAlignment="Bottom">
+        <uccontrol:FirstScreen x:Name="firstScreen"></uccontrol:FirstScreen>
+        <uccontrol:SelectFile x:Name="selectFile" Visibility="Hidden"></uccontrol:SelectFile>
+        <uccontrol:FileFormat x:Name="fileFormat" Visibility="Hidden"></uccontrol:FileFormat>
+        <uccontrol:ChooseFields x:Name="chooseFields" Visibility="Hidden"></uccontrol:ChooseFields>
+        <uccontrol:DataSettings x:Name="dataSettings"  Visibility="Hidden"></uccontrol:DataSettings>
+        <uccontrol:ResultScreen x:Name="resultScreen" Visibility="Hidden" ></uccontrol:ResultScreen>
+        <ucDatabase:MySQLScreen x:Name="mysqlScreen" Visibility="Hidden"></ucDatabase:MySQLScreen>
+        <ucDatabase:SqlServerScreen x:Name="sqlserverScreen" Visibility="Hidden"></ucDatabase:SqlServerScreen>
+        <ucDatabase:OracleScreen x:Name="oracleScreen" Visibility="Hidden"></ucDatabase:OracleScreen>
+        <ucDatabase:PostgreSqlScreen x:Name="postgresqlScreen" Visibility="Hidden"></ucDatabase:PostgreSqlScreen>
+        <ucDatabase:FirebirdScreen x:Name="firebirdScreen" Visibility="Hidden"></ucDatabase:FirebirdScreen>
+        <ucDatabase:WSDLScreen x:Name="wsdlScreen" Visibility="Hidden"></ucDatabase:WSDLScreen>
+    </Grid>
+</Window>

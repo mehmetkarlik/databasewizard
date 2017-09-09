@@ -1,0 +1,35 @@
+﻿<UserControl x:Class="DatabaseWizard.User_Controls.FirstScreen"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DatabaseWizard.User_Controls"
+             mc:Ignorable="d" 
+             d:DesignHeight="481.935" d:DesignWidth="642">
+    <Grid>
+        <Label x:Name="label" Content="Select Database Type" HorizontalAlignment="Left" Margin="10,20.795,0,0" VerticalAlignment="Top" Foreground="#FF198EC2" FontWeight="ExtraBold" FontSize="21" Height="41.589" FontFamily="Yu Gothic UI Semibold"/>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="414.551" Margin="-16.192,72.781,-53.767,-5.397" Stroke="DarkGray" VerticalAlignment="Top" Width="711.959"/>
+        <ListBox ItemContainerStyle="{DynamicResource lstBoxItemOfficeStyle}"  x:Name="lstDatabaseListing" HorizontalAlignment="Left" Height="280.818" Margin="44.224,134.701,0,0" VerticalAlignment="Top" Width="538.245" SelectionChanged="lstDatabaseListing_SelectionChanged">
+            <ListBox.ItemTemplate>
+                <DataTemplate >
+                    <StackPanel Orientation="Horizontal" Margin="0,2,2,2">
+                        <StackPanel>
+                            <Image Margin="2" Width="35" Height="35"  Source="{Binding Path}"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Vertical" Margin="5,1,0,0">
+                            <TextBlock Margin="1" Text="{Binding Name}" FontWeight="Bold" />
+                            <TextBlock Margin="1" Text="{Binding Description}"/>
+                        </StackPanel>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <Label x:Name="label_Copy1" Content="This wizard enables you to connect to a variety of relational database systems and data file types." HorizontalAlignment="Left" Margin="10,77.78,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.574,1.49"/>
+        <Label x:Name="label_Copy" Content="Select the type of database:" HorizontalAlignment="Left" Margin="10,103.74,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.574,1.49"/>
+        <Button x:Name="btnCancel" Content="Cancel" HorizontalAlignment="Left" Margin="533.734,433.361,0,0" VerticalAlignment="Top" Width="75" Click="btnCancel_Click"/>
+        <Button IsEnabled="False" x:Name="btnFinish" Content="Finish" HorizontalAlignment="Left" Margin="453.734,433.361,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button IsEnabled="False" x:Name="btnNext" Content=" Next &gt;" HorizontalAlignment="Left" Margin="373.734,433.361,0,0" VerticalAlignment="Top" Width="75" Click="btnNext_Click"/>
+        <Button IsEnabled="False" x:Name="btnBack" Content="&lt; Back " HorizontalAlignment="Left" Margin="293.734,433.361,0,0" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</UserControl>

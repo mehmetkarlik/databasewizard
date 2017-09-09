@@ -1,0 +1,39 @@
+﻿<UserControl x:Class="DatabaseWizard.User_Controls.Database.FirebirdScreen"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DatabaseWizard.User_Controls.Database"
+             mc:Ignorable="d" 
+             d:DesignHeight="481.935" d:DesignWidth="642">
+    <Grid>
+        <Label x:Name="label" Content="Firebird Database" HorizontalAlignment="Left" Margin="10,20.795,0,0" VerticalAlignment="Top" Foreground="#FF198EC2" FontWeight="ExtraBold" FontSize="21" Height="41.589" FontFamily="Yu Gothic UI Semibold"/>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="414.551" Margin="-16.192,72.781,-395.767,-187.332"  Stroke="DarkGray" VerticalAlignment="Top" Width="711.959"/>
+        <Button x:Name="btnCancel" Content="Cancel" HorizontalAlignment="Left" Margin="533.734,433.361,-308.734,-155.361" VerticalAlignment="Top" Width="75" Click="btnCancel_Click"/>
+        <Button IsEnabled="False" x:Name="btnFinish" Content="Finish" HorizontalAlignment="Left" Margin="453.734,433.361,-228.734,-155.361" VerticalAlignment="Top" Width="75"/>
+        <Button IsEnabled="True" x:Name="btnNext" Content=" Next &gt;" HorizontalAlignment="Left" Margin="373.734,433.361,-148.734,-155.361" VerticalAlignment="Top" Width="75" Click="btnNext_Click" TabIndex="7"/>
+        <Button x:Name="btnBack" Content="&lt; Back " HorizontalAlignment="Left" Margin="293.734,433.361,-68.734,-155.361" VerticalAlignment="Top" Width="75" Click="btnBack_Click"/>
+        <Label x:Name="label1" HorizontalAlignment="Left" Margin="100,86,-399,0" VerticalAlignment="Top" Height="27" Width="599">
+            <TextBlock TextWrapping="WrapWithOverflow" Text="Enter Connection information"/>
+        </Label>
+        <Label x:Name="label2" Content="Server:" HorizontalAlignment="Left" Margin="136,110,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2_Copy" Content="Port:" HorizontalAlignment="Left" Margin="136,141,0,0" VerticalAlignment="Top" RenderTransformOrigin="3.645,1.058"/>
+        <TextBox x:Name="txtPort" Text="3050" HorizontalAlignment="Left" Height="23" Margin="216,144,-229,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="313" TabIndex="1"/>
+        <Label x:Name="label2_Copy1" Content="User Name:" HorizontalAlignment="Left" Margin="136,214,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2_Copy2" Content="Password:" HorizontalAlignment="Left" Margin="136,245,0,0" VerticalAlignment="Top" RenderTransformOrigin="3.645,1.058"/>
+        <TextBox x:Name="txtUserName" HorizontalAlignment="Left" Height="23" Margin="216,217,-229,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="313" TabIndex="4"/>
+        <Label x:Name="label1_Copy1" HorizontalAlignment="Left" Margin="100,281,-399,-9" VerticalAlignment="Top" Height="28" Width="599">
+            <TextBlock TextWrapping="WrapWithOverflow" Text="Select or enter a database name:"/>
+
+        </Label>
+        <Label x:Name="label2_Copy3" Content="Database:" HorizontalAlignment="Left" Margin="136,309,0,-35" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtDatabase" HorizontalAlignment="Left" Height="22" Margin="216,313,-229,-35" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="313" TabIndex="6"/>
+        <TextBox x:Name="txtServer" HorizontalAlignment="Left" Height="23" Margin="216,113,-229,0" TextWrapping="Wrap" Text="localhost" VerticalAlignment="Top" Width="313" TabIndex="0"/>
+        <PasswordBox x:Name="txtPassword" HorizontalAlignment="Left" Margin="216,248,-229,0" VerticalAlignment="Top" Height="23" Width="313" TabIndex="5"/>
+        <Label x:Name="label1_Copy" HorizontalAlignment="Left" Margin="100,182,-399,0" VerticalAlignment="Top" Height="27" Width="599">
+            <TextBlock TextWrapping="WrapWithOverflow" Text="Enter Username and Password information:"/>
+        </Label>
+        <Button x:Name="btnOpenFile" Content="..." HorizontalAlignment="Left" Margin="486,313,0,0" VerticalAlignment="Top" Width="43" Height="22" Click="btnOpenFile_Click"/>
+
+    </Grid>
+</UserControl>
